@@ -9,7 +9,7 @@ to complete transactions with other wallets in a similar manner with which Bitco
 This app is built using node.js and Typescript
 
 ## How to Run
-git clone <this-repo>
+git clone \<this-repo>
 
-npm install
+npm install   
 npm start
